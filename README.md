@@ -3,3 +3,5 @@
 
 A bit about myself:
 I want to master the art of writing about myself; To do: list memorable snipetts of self description from admirable people: Steve Jobs, Roger Scruton, Marvin Minsky, Shivagam, Srila Prabhupada, Yoshio Sakamoto.
+
+Julio thinks this is not a fork
